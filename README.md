@@ -1,4 +1,4 @@
-# CARES-Stimulus
+# CARES Act Recipients
 
 Data provided by https://data.covidstimuluswatch.org/prog.php?detail=opening
 <p>This is a look at how CARES Act stimulus money was disbursed between its recipients
